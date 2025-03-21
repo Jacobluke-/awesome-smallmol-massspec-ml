@@ -77,6 +77,7 @@ Keep updating the awesome machine-learning papers and codes related to small mol
 - [Annu. Rev. Anal. Chem. 2025] Hong, Yuhui, et al. [Machine Learning in Small-Molecule Mass Spectrometry](https://www.annualreviews.org/content/journals/10.1146/annurev-anchem-071224-082157)
 - [J. Am. Soc. Mass Spectrom. 2024] Nguyen, Julia, et al. [Advancing the Prediction of MS/MS Spectra Using Machine Learning](https://pubs.acs.org/doi/10.1021/jasms.4c00154)  
 - [IJCAI 2023] Xia, Jun, et al. [A Systematic Survey of Chemical Pre-trained Models](https://www.ijcai.org/proceedings/2023/760)
+- [Metabolomics 2022] Bittremieux, Wout, Mingxun Wang, and Pieter C. Dorrestein. [The critical role that spectral libraries play in capturing the metabolomics community knowledge](https://link.springer.com/article/10.1007/s11306-022-01947-y)
 - [TrAC 2021] Debus, Bruno, et al. [Deep learning in analytical chemistry](https://www.sciencedirect.com/science/article/pii/S016599362100282X)
 - [J. Cheminform. 2013] Scheubert, Kerstin, et al. [Computational mass spectrometry for small molecules](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-5-12)
 
